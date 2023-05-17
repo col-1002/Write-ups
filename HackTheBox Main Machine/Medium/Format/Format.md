@@ -1,4 +1,3 @@
-The username is retrieved from Redis, and if we modify it, we can use Python's format string:
 ### Basic infor
 * https://app.hackthebox.com/machines/Format
 * IP: 10.10.11.213
