@@ -15,4 +15,4 @@ New labs are added every week, ensuring the content is always up-to-date and the
 |-----------|--------|---------|
 |[Format](https://github.com/col-1002/Write-ups/blob/main/HackTheBox%20Main%20Machine/Medium/Format/Format.md) | 17/05/2023| Medium|
 |[Injection](https://github.com/col-1002/Write-ups/blob/main/HackTheBox%20Main%20Machine/Easy/Injection.md) | 12/03/2023 | Easy | 
-|[PC](https://github.com/col-1002/Write-ups/blob/main/HackTheBox%20Main%20Machine/Easy/PC/PC.md) | 21/05/2023 | 
+|[PC](https://github.com/col-1002/Write-ups/blob/main/HackTheBox%20Main%20Machine/Easy/PC/PC.md) | 21/05/2023 | Easy |
